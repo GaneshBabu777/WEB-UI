@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Sai Music Academy original logo</title>
+  <desc id="desc">An original circular music logo with staff lines, a flowing S curve, and a musical note.</desc>
+  <defs>
+    <linearGradient id="gold" x1="45" y1="33" x2="194" y2="207" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFE9A8" />
+      <stop offset="0.52" stop-color="#F4B942" />
+      <stop offset="1" stop-color="#B66A1C" />
+    </linearGradient>
+    <linearGradient id="wine" x1="40" y1="32" x2="202" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#261016" />
+      <stop offset="1" stop-color="#6E1E1A" />
+    </linearGradient>
+  </defs>
+  <circle cx="120" cy="120" r="108" fill="url(#wine)" />
+  <circle cx="120" cy="120" r="101" fill="none" stroke="url(#gold)" stroke-width="5" />
+  <path d="M55 78H150M51 94H164M52 110H156M62 126H169M77 142H159" fill="none" stroke="#F9D879" stroke-linecap="round" stroke-width="4" opacity="0.72" />
+  <path d="M149 61V145" fill="none" stroke="url(#gold)" stroke-linecap="round" stroke-width="12" />
+  <path d="M149 64C173 67 186 79 186 96C186 111 175 120 161 123" fill="none" stroke="#FFE9A8" stroke-linecap="round" stroke-width="11" />
+  <ellipse cx="128" cy="153" rx="31" ry="19" fill="url(#gold)" transform="rotate(-17 128 153)" />
+  <path d="M92 63C58 80 61 113 103 119C153 126 155 166 113 181C90 189 66 183 52 169" fill="none" stroke="#FFF3C4" stroke-linecap="round" stroke-width="13" />
+  <path d="M79 69C55 91 68 109 105 114" fill="none" stroke="#F4B942" stroke-linecap="round" stroke-width="5" opacity="0.85" />
+  <circle cx="66" cy="166" r="7" fill="#F4B942" />
+  <circle cx="174" cy="87" r="5" fill="#FFF3C4" />
+  <path d="M72 199H168" fill="none" stroke="#F9D879" stroke-linecap="round" stroke-width="3" opacity="0.8" />
+  <text x="120" y="191" fill="#FFF3C4" font-family="Georgia, 'Times New Roman', serif" font-size="23" font-weight="700" letter-spacing="4" text-anchor="middle">SAI</text>
+</svg>
